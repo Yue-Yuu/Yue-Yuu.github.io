@@ -10,7 +10,8 @@
       <img src="/image1.jpg" width="100%">
     </td>
 </table>
- ![English Version](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
+
+ [![English Version]](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
 
 ### 学历
 
