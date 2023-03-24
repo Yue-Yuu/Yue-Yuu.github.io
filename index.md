@@ -5,14 +5,11 @@
       <p><b>硕士研究生</b></p>
       <p><b>郑州大学计算机与人工智能学院</b></p>
       <p><b>邮箱：yue_yuu@163.com</b></p>
+      <p><a href="/index-en.html">英文版</a></p>
     </td>
     <td width="25%">
       <img src="/image1.jpg" width="100%">
     </td>
-  </tr>
-  <tr>
-    <a href="/index-en.html">英文版</a>
-    [English Version](index-en.md)
   </tr>
 </table>
 
