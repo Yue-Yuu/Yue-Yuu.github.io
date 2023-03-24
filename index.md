@@ -7,12 +7,13 @@
       <p><b>邮箱：yue_yuu@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/image1.jpg" width="100%">   # 插入证件照代码
+      <img src="/image1.jpg" width="100%">
     </td>
-    <td>
-      [English Version](src="/index-en.md")   # 插入证件照代码
-    </td>
+
   </tr>
+      <td>
+      [English Version](src="/index-en.md")
+    </td>
 </table>
 
 ### 学历
