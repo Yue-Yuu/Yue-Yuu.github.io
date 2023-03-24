@@ -12,7 +12,6 @@
   </tr>
 </table>
 
-### English Version
 
 [English Version](index-en.md)
 
