@@ -9,12 +9,8 @@
     <td width="25%">
       <img src="/image1.jpg" width="100%">
     </td>
-
-  </tr>
-      <td>
-      [English Version](src="/index-en.md")
-    </td>
 </table>
+ ![English Version](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
 
 ### 学历
 
