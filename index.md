@@ -11,7 +11,8 @@
     </td>
   </tr>
   <tr>
-  [English Version](index-en.md)
+    <a href="/index-en.html">英文版</a>
+    [English Version](index-en.md)
   </tr>
 </table>
 
