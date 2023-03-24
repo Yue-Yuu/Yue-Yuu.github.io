@@ -19,12 +19,12 @@
 
 ### 研究方向
 - 生物实体关联预测
-- **微生物-药物 关联预测**
-- **药物-靶标 关联预测**
+微生物-药物 关联预测
+药物-靶标 关联预测
 
 - 对比学习在生物实体关联预测中的应用
 
 ### 发表论文
-> Tian Z, **Yu Y**, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
+> - Tian Z, **Yu Y**, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
 
 
