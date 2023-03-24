@@ -7,7 +7,7 @@
       <p><b>email：yue_yuu@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/image1.jpg" width="100%">      % 插入证件照代码
+      <img src="/image1.jpg" width="100%">      # 插入证件照代码
     </td>
   </tr>
 </table>
