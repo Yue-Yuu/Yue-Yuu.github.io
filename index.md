@@ -9,7 +9,7 @@
     <td width="25%">
       <img src="/image1.jpg" width="100%">
     </td>
-  <tr>
+  </tr>
 </table>
 
 ### English Version
