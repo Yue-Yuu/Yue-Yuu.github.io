@@ -14,7 +14,7 @@
 
 ### English Version
 
-[![English Version]](https://github.com/Yue-Yuu/Yue-Yuu.github.io/blob/main/index-en.md)
+[English Version](index-en.md)
 
 ### 学历
 
