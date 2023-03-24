@@ -1,3 +1,5 @@
+[![English Version]](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -11,7 +13,7 @@
     </td>
 </table>
 
- [![English Version]](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
+* [![English Version]](https://github.com/Yue-Yuu/Yue-Yuu.github.io/index-en.md")
 
 ### 学历
 
