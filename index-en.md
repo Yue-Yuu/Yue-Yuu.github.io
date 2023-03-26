@@ -7,7 +7,7 @@
       <p><b>email：yue_yuu@163.com</b></p>
     </td>
     <td width="25%">
-      <img src="/image.jpg" width="100%"> 
+      <img src="/id.jpg" width="100%"> 
     </td>
   </tr>
 </table>
