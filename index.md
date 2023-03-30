@@ -1,9 +1,10 @@
+<font face="楷体">
 <table border="0">
   <tr>
     <td width="75%">
       <h1>余跃</h1>
-      <p><font-family:"楷体";><b>硕士研究生,2021-至今</b></font></p>
-      <p><font-family:"宋体";><b>郑州大学计算机与人工智能学院</b></font></p>
+      <p><b>硕士研究生,2021-至今</b></p>
+      <p><b>郑州大学计算机与人工智能学院</b></p>
       <p><b>邮箱：yue_yuu@163.com</b></p>
       <p><a href="/index-en.html">English Version</a></p>
     </td>
@@ -13,9 +14,13 @@
   </tr>
 </table>
 
+</font>
+
 ### 学历
+<font face="仿宋">
 - 2021- 至今    硕士 郑州大学 计算机与人工智能学院 计算机技术
 - 2017-2021 本科 郑州大学 信息工程学院 软件工程
+  </font>
 
 ### 研究方向
 - 生物实体关联预测
