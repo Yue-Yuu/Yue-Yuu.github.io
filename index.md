@@ -28,6 +28,6 @@
 
 ### 发表论文
 > - Tian Z, **Yu Y**, Fang H, et al. Predicting microbe–drug associations with structure-enhanced contrastive learning and self-paced negative sampling strategy[J]. Briefings in Bioinformatics, 2023, 24(2): bbac634.
-> - Tian, Z., Yu, Y., Ni, F. et al. Drug-target interaction prediction with collaborative contrastive learning and adaptive self-paced sampling strategy. BMC Biol 22, 216 (2024).
+> - Tian, Z., **Yu, Y**., Ni, F. et al. Drug-target interaction prediction with collaborative contrastive learning and adaptive self-paced sampling strategy. BMC Biol 22, 216 (2024).
 
 
